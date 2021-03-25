@@ -1,45 +1,46 @@
-# Class 5: Deployment
+Number and name of feature: Feature #1: Deployment
 
-## Overview
+Estimate of time needed to complete: 30 min 
 
-Today we will cover code deployments.
+Start time: 2:25
 
-Following lecture, we will deploy our portfolio app, workshop style. Each student will follow along, deploying the personal portfolio built in lab 4 to a cloud web hosting platform called Heroku.
+Finish time: 2:45
 
-## Daily Plan
+Actual time needed to complete: 20 min 
 
-- Warm-up exercise
-- Introduction of today's code challenge topic
-- Build City Explorer (HTML, CSS, JS, jQuery, Mustache)
-- Deployment Overview and Demo
-- Deployment Workshop
-- Lab Preview
+-----------------------
 
-## Learning Objectives
+Number and name of feature: Feature #2: Refactor the CSS
 
-As a result of completing lecture 5 of Code 301, students will:
+Estimate of time needed to complete: 1  hour and 30 min 
 
-- Understand the difference between deploying static and dynamic web applications
-- Understand deployment processes over multiple environments
-- Be able to deploy dynamic web applications to Heroku
+Start time: 2:55
 
-### Deployment Workshop
+Finish time: 3:55
 
-Today, we will be deploying your portfolio to a real web server. This will require a carefully stepped process:
+Actual time needed to complete: 1 hour 
 
-- [ ] Create a new repository for your server at GitHub
-- [ ] Develop and test your server from your machine
-  - /data route that sends JSON data
-  - Static files served from `/public`
-  - Simple 'hello world' `index.html` in public
-- [ ] Check in your server code to GitHub (`master` branch)
-- [ ] Create an account at Heroku.com
-- [ ] Create a new "app" from your Heroku Dashboard
-- [ ] Deploy your app from your GitHub repository (see Deploy tab in Heroku)
-- [ ] Confirm app is live!
-- [ ] Connect your app to master
-- [ ] Move portfolio website content to the `public` folder
-- [ ] Check in your server code to GitHub (`master` branch)
-- [ ] View Heroku logs (Activity tab)
-- [ ] Confirm app with portfolio content is live
-- [ ] Win.
+---------------------------
+
+Number and name of feature: Feature #3: Modify the contents
+
+Estimate of time needed to complete: 3 hour 
+
+Start time: 4:00
+
+Finish time: 6:00
+
+Actual time needed to complete: 2 hour 
+
+-----------------------------
+
+Number and name of feature: Feature #4: Add functionality
+
+Estimate of time needed to complete: 4 hour 
+
+Start time: 6:30
+
+Finish time: 9:45  
+
+Actual time needed to complete:3 hour and 45 min
+
